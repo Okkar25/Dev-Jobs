@@ -1,8 +1,15 @@
-# React + Vite
+# Dev Jobs 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Tech Stacks 
+- React
+- Tailwind
+- React Router 
+- JSON Server 
+- Axios 
+- Redux Toolkit 
+- React Spinners 
+- React toaster 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![DevJobs1](https://github.com/Okkar25/Dev-Jobs/assets/118409114/179eddd5-a074-49e7-807f-48baafe05c25)
+![DevJobs2](https://github.com/Okkar25/Dev-Jobs/assets/118409114/581e79c4-48dc-455b-ac8a-e6801908425a)
+![DevJobs3](https://github.com/Okkar25/Dev-Jobs/assets/118409114/21c753d1-0ff9-4246-b069-1393478107cd)
